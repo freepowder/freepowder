@@ -34,7 +34,6 @@ const Page: React.FC<PageProps> = () => {
           <AdditionalInfo />
         </div>
       </div>
-
       <Footer />
     </>
   );
