@@ -14,7 +14,6 @@ import { ThemeSetting } from '../../edit-me/types/Config';
 import './globals.css';
 
 const accentColor = resumeConfig.accentColor;
-
 const albert = Albert_Sans({
   display: 'swap',
   subsets: ['latin'],
