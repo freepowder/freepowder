@@ -13,6 +13,8 @@ Build the flagship product for the company with React and NextJs. www.horseplay.
 
 Build a web components library to be used by iOS applications.
 
+Build a REST API with NodeJS. 
+
 Agile Kanban methodology , week based delivery to prod, causing a +500% grow in profit from January 2024 to June 2024.
 
 Leading a team of 3-4 developers.

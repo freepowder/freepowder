@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="440c39bc-0c9c-4f04-9a8b-91b25612c561" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit-me/content/professionalExperiences/00-gpn.md" beforeDir="false" afterPath="$PROJECT_DIR$/edit-me/content/professionalExperiences/00-gpn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Articles/ContactInformation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Articles/ContactInformation.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -95,7 +97,8 @@
       <option name="presentableId" value="Default" />
       <updated>1726570959721</updated>
       <workItem from="1726570960765" duration="9524000" />
-      <workItem from="1726650913109" duration="299000" />
+      <workItem from="1726650913109" duration="2758000" />
+      <workItem from="1726742583623" duration="371000" />
     </task>
     <servers />
   </component>
