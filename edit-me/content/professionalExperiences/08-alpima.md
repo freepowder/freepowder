@@ -13,3 +13,5 @@ Mean stack.
 Build all the CI/CD pipelines based on Jenkins in AWS.
 
 Leading a team of 3-4 developers.
+
+AngularJs, Express, MongoDB, NodeJs, Jenkins, Karma, Jasmine

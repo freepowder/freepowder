@@ -16,3 +16,5 @@ Leading a team of 5-6 developers (AEM and web).
 
 - Support and drive development for Canada, Australia and Mexico in Angular and AEM.
 - Optimized 11 source codes repositories into one, (single source of truth) so the output build is on demand based on configuration (country + market configuration)
+
+Angular, AEM, Typescript, RxJs, SSR, NodeJs, AWS, Docker, AEM, Bitbucket,Karma, Jasmine

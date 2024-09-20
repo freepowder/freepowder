@@ -31,7 +31,7 @@ const Page: React.FC<PageProps> = () => {
         </div>
 
         <div className="mt-12">
-          <AdditionalInfo />
+          {/*<AdditionalInfo />*/}
         </div>
       </div>
       <Footer />
