@@ -318,16 +318,19 @@ const PDF: React.FC<PDFProps> = ({ privateInformation }) => {
                 <CircleIdCard size={fontSizes.m} />
                 <Text>Contact Information</Text>
               </View>
-              <View style={styles.flexRow}>
-                <Text style={styles.bold}>Location:</Text>
-                <Text>&nbsp;{personal.location}</Text>
-              </View>
-              {privateInformation?.map((privateField) => (
-                <View key={privateField._id}>
-                  <Text style={styles.bold}>{privateField.label}:&nbsp;</Text>
-                  <Html {...htmlProps}>{privateField.body.html}</Html>
+                <View style={styles.flexRow}>
+                  <Text style={styles.bold}>Location:</Text>
+                  <Text>&nbsp;{personal.location}</Text>
                 </View>
-              ))}
+                <View style={styles.flexRow}>
+                <Text style={styles.bold}>Email:</Text>
+                <Text>&nbsp;aretanafernandez@gmail.com</Text>
+              </View>
+                <View style={styles.flexRow}>
+                  <Text style={styles.bold}>Phone:</Text>
+                  <Text>&nbsp;07414958546</Text>
+                </View>
+
             </View>
             <View style={styles.section}>
               <View style={styles.sectionHeading}>
@@ -393,21 +396,21 @@ const PDF: React.FC<PDFProps> = ({ privateInformation }) => {
               </View>
             ))}
           </View>
-          <View style={styles.section}>
-            <View style={styles.sectionHeading}>
-              <CirclePaintbrush size={fontSizes.m} />
-              <Text>{additionalInfo.title}</Text>
-            </View>
-            <Html
-              {...htmlProps}
-              stylesheet={{
-                ...htmlProps.stylesheet,
-                p: { marginBottom: spacers[1] },
-              }}
-            >
-              {additionalInfo.body.html}
-            </Html>
-          </View>
+          {/*<View style={styles.section}>*/}
+          {/*  <View style={styles.sectionHeading}>*/}
+          {/*    <CirclePaintbrush size={fontSizes.m} />*/}
+          {/*    <Text>{additionalInfo.title}</Text>*/}
+          {/*  </View>*/}
+          {/*  <Html*/}
+          {/*    {...htmlProps}*/}
+          {/*    stylesheet={{*/}
+          {/*      ...htmlProps.stylesheet,*/}
+          {/*      p: { marginBottom: spacers[1] },*/}
+          {/*    }}*/}
+          {/*  >*/}
+          {/*    /!*{additionalInfo.body.html}*!/*/}
+          {/*  </Html>*/}
+          {/*</View>*/}
         </View>
       </Page>
     </Document>

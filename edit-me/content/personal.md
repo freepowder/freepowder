@@ -3,7 +3,8 @@ givenName: Alvaro
 familyName: Retana Fernandez
 title: Technical Lead
 location: London, UK
-twitterUsername: freepowder
+
+twitterUsername: freepowder13
 ---
 
 Expert in Web Development, TypeScript, React, Node.js
