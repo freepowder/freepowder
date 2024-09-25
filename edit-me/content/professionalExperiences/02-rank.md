@@ -20,4 +20,4 @@ Build all the CI/CD pipelines based on Docker and GCP.
 
 Leading a team of 5-6 developers.
 
-Angular, Web Components, Typescript, RxJs, SSR, NodeJs, AWS, Docker, Bitbucket, Jenkins, Karma,Jasmine
+Angular, Web Components, Typescript, RxJs, SSR, NodeJs, AWS, Docker, Bitbucket, Jenkins, Karma, Jasmine
