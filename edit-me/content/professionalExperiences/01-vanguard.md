@@ -12,6 +12,8 @@ Build a generator for Vanguard group to create Web applications from scratch bas
 
 Build a private npm 'Angular UI + AEM components' Library to be used widely by the company for building marketing websites and internal tools.  
 
+Agile with 2 weeks Sprints, 2 week based delivery to prod.
+
 Leading a team of 5-6 developers (AEM and web).
 
 - Internal conference speaking showcasing the company about the Angular + AEM generator. 

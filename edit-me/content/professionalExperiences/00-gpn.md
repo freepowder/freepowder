@@ -17,7 +17,11 @@ Build a REST API with NodeJS to be consumed by the web application, web componen
 
 Integration of 3rd party providers like Salesforce, Competition Labs, GA, GTM, Appsflyer.
 
-Agile Kanban methodology , week based delivery to prod, causing a +500% grow in profit from January 2024 to June 2024.
+Feature Flag driven development for new features.
+
+Agile with Kanban, week based delivery to prod, causing a +500% grow in profit from January 2024 to June 2024.
+
+Daily stand-ups with developers only (outside Agile ceremony) to catch up on tech and non-tech issues
 
 Leading a team of 3-4 developers.
 

@@ -18,6 +18,8 @@ Build a set private npm libraries of web-components (4) to be used by any consum
 
 Build all the CI/CD pipelines based on Docker and GCP.
 
+Agile with 2 weeks Sprints, 2 week based delivery to prod.
+
 Leading a team of 5-6 developers.
 
 Angular, Web Components, Typescript, RxJs, SSR, NodeJs, AWS, Docker, Bitbucket, Jenkins, Karma, Jasmine
