@@ -6,12 +6,14 @@ endDate: September 2016
 ---
 Permanent.
     
-Leading the development of the AngularJS web app and backoffice tool.
+Led the development of the AngularJS web app.
 
-Mean stack.
+Led the development of the AngularJS backoffice tool with angular materials.
 
-Build all the CI/CD pipelines based on Jenkins in AWS.
+BDD wrote up to 85% code coverage.
 
-Leading a team of 3-4 developers.
+Built all the CI/CD pipelines based on Jenkins in AWS.
 
-AngularJs, Express, MongoDB, NodeJs, Jenkins, Karma, Jasmine
+Led a team of 3-4 developers.
+
+Utilized tech stack including AngularJs, Express, MongoDB, NodeJs, Jenkins, Karma, Jasmine

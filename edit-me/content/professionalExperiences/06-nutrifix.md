@@ -6,10 +6,10 @@ endDate: February 2017
 ---
 Contract.
     
-Leading the development of the iOS app with Ionic.
+Led the development of the iOS app with Ionic.
 
-Leading the development of the Backoffice tool, with NodeJs and MongoDB
+Led the development of the Backoffice tool, with NodeJs and MongoDB
 
-Build all the CI/CD pipelines based on Jenkins in AWS.
+Built all the CI/CD pipelines based on Jenkins in AWS.
 
-Angular, Typescript, RxJs, SSR, NodeJs, Jenkins,Karma, Jasmine
+Utilized tech stack including Angular, Web Components, Typescript, RxJs, SSR, NodeJs, AWS, Docker, Bitbucket, Jenkins, Karma, Jasmine

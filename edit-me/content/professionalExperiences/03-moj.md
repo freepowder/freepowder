@@ -6,7 +6,11 @@ endDate: March 2019
 ---
 Contract.
     
-Build the internal tools for the HMRC court cases in Angular v6.
+Built the internal tools for the HMRC court cases 
+
 Set of 5 Angular applications
 
-Angular, Typescript, RxJs, NodeJs, Jest
+Unit tests and e2e test with Cypress
+
+
+Utilized tech stack including Angular, Typescript, RxJs, NodeJs, Jest, Cypress

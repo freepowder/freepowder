@@ -5,19 +5,19 @@ startDate: March 2018
 endDate: October 2018
 ---
 Contract.
-    
-Leading the migration of 11 products into Angular v13 PWA.
 
-Build a generator to create Angular Web applications from scratch based on brand.
+Led the migration of 11 products to Angular v13 PWA.
 
-Build an in-house CMS to feed the Angular Web applications.
+Developed a generator for creating Angular Web applications tailored to specific brands.
 
-Build a private npm 'Angular UI' Library to be used in every site.
+Created an in-house CMS to support Angular Web applications.
 
-Build a set private npm libraries of web-components (4) to be used by any consumer implementing gaming features.
+Established a private npm 'Angular UI' Library for universal site usage.
 
-Build all the CI/CD pipelines based on Docker and GCP.
+Developed a suite of 4 private npm web-component libraries for gaming features across all consumer implementations.
 
-Leading a team of 5-6 developers.
+Implemented CI/CD pipelines utilizing Docker and GCP technologies.
 
-Angular, Web Components, Typescript, RxJs, SSR, NodeJs, AWS, Docker, Bitbucket, Jenkins, Karma, Jasmine
+Managed a team of 5-6 developers in project execution.
+
+Utilized tech stack including Angular, Web Components, Typescript, RxJs, SSR, NodeJs, AWS, Docker, Bitbucket, Jenkins, Karma, Jasmine

@@ -6,10 +6,10 @@ endDate: November 2016
 ---
 Contract.
     
-Leading the development of the Angular web app.
+Led the development of the Angular web app.
 
-Build all the CI/CD pipelines based on Jenkins in Rackspace.
+Built all the CI/CD pipelines based on Jenkins in Rackspace.
 
-Leading a team of 3-4 developers.
+Lead a team of 3-4 developers.
 
-Angular, Typescript, RxJs, SSR, NodeJs, Jenkins, Karma, Jasmine
+Utilized tech stack including Angular, Typescript, RxJs, SSR, NodeJs, AWS, Docker, Bitbucket, Jenkins, Karma, Jasmine
