@@ -21,6 +21,6 @@ Node.js & Back-End Development: With experience in building RESTful APIs and mic
 
 Testing & Quality Assurance: I prioritize software quality, utilizing modern testing frameworks and tools such as Jest and Cypress to ensure comprehensive coverage and robustness of applications.
 
-Agile & Scrum Methodology: As a certified Agile practitioner, I thrive in fast-paced environments, adept at breaking down complex tasks, iterating quickly, and delivering high-quality results in sprints.
+Agile & Scrum Methodology: Agile practitioner, I thrive in fast-paced environments, adept at breaking down complex tasks, iterating quickly, and delivering high-quality results in sprints or kanban.
 
 Leadership & Team Collaboration: I have a proven track record of leading cross-functional teams, fostering a collaborative and inclusive culture, and mentoring developers to achieve their full potential.
