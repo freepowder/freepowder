@@ -13,11 +13,7 @@ Expert in Web Development, TypeScript, React, Node.js
 
 Accomplished Tech Lead with over 10 years of experience in full stack web development, specializing in TypeScript, React, NextJS and NodeJS. Proven track record in designing, building, and scaling complex web applications. Strong leadership skills, having led cross-functional teams of engineers for the past 7 years, delivering high-quality software solutions in dynamic, agile environments. Adept at driving technical innovation, mentoring developers, and aligning engineering strategies with business goals. Passionate about fostering collaboration and adopting best practices to build scalable and maintainable web solutions.
 
-With a strong foundation in TypeScript, React, Next.js, and Node.js, I bring a robust skill set that enables me to build scalable, high-performance web applications from the ground up. My expertise spans across the full development lifecycle, from designing intuitive front-end interfaces to architecting efficient back-end solutions.
-
-Key Skills & Strengths:
-
-TypeScript & JavaScript Mastery: I ensure code quality and maintainability using the latest features and best practices of TypeScript, reducing bugs and improving overall application stability.
+TypeScript Mastery: I ensure code quality and maintainability using the latest features and best practices of TypeScript, reducing bugs and improving overall application stability.
 
 React & Next.js Proficiency: I excel in building responsive, dynamic user interfaces with React, leveraging the server-side rendering and static site generation capabilities of Next.js for optimal performance and SEO.
 
