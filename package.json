@@ -3,11 +3,6 @@
   "version": "5.1.3",
   "license": "MIT",
   "type": "module",
-  "author": {
-    "name": "Colin Hemphill",
-    "email": "colin@colinhemphill.com",
-    "url": "https://colinhemphill.com"
-  },
   "keywords": [
     "resume",
     "generator",
@@ -15,7 +10,6 @@
     "pdf",
     "tailwind"
   ],
-  "homepage": "https://github.com/colinhemphill/nextjs-resume",
   "scripts": {
     "build": "next build",
     "build:content": "contentlayer build",

@@ -1,10 +1,10 @@
 ---
 title: Technical Lead
 organization: Rank Interactive
-startDate: March 2018
-endDate: October 2018
+startDate: March 2019
+endDate: February 2022
 ---
-Contract.
+Permanent.
 
 Led the migration of 11 products to Angular v13 PWA.
 

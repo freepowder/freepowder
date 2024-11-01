@@ -1,12 +1,10 @@
 ---
 title: Technical Lead
 organization: Game Play Network
-startDate: August 2023
-previousTitles:
-  - title: Senior Software Engineer
-    startDate: 'February 2023'
-    endDate: 'August 2023'
+startDate: February 2023
+endDate: October 2024
 ---
+
 Permanent.
 
 Developed flagship product for the company using React and NextJs on www.horseplay.com.
