@@ -1,7 +1,7 @@
 ---
 givenName: Alvaro
 familyName: Retana Fernandez
-title: Technical Lead
+title: Technical Lead / Principal Engineer
 location: London, UK
 
 twitterUsername: freepowder13
